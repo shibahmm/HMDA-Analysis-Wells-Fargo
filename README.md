@@ -36,14 +36,15 @@ Both depository financial institutions and non-depository financial institutions
 size, location, loan-activity, or loan-volume tests are subject to HMDA.
 Data
 Consumer Financial Protection Bureau (CFPB) provides historical HMDA disclosure
-information from 2007 to 2017 on its website.1 Federal Financial Institutions Examination
+information from 2007 to 2017 on its website. Federal Financial Institutions Examination
 Council (FFIEC) provide more recent HMDA data.
-2
+
 Please note that race information is based on self-identification. If an applicant does not disclose
 race information, a financial institution can gather that information based on visual observations
 or surname.
 Variable list and explanations are attached at the end of this file.
-1 https://www.consumerfinance.gov/data-research/hmda/ 2 https://ffiec.cfpb.gov/data-browser
+
+
 HMDA Loan Application Register Format
 (File format is comma separated value)
  Maximum
