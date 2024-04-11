@@ -25,6 +25,7 @@ Closed-End Mortgage Loans are loans that represent
 1. An extension of credit;
 2. Secured by a lien on a dwelling; and
 3. Not an open-end line of credit.
+
 An open-end line of credit refers to a loan that
 4. The lender reasonably contemplates repeated transactions;
 5. The lender may impose a finance charge from time-to-time on an outstanding unpaid
